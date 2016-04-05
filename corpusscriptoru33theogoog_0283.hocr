@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru33theogoog_0283.png"; bbox 0 0 3109 4959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 517 443 1319 534">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 517 443 1319 534">
+     <span class='ocr_line' id='line_1_1' title="bbox 517 443 1319 534; baseline -0.02 0"><span class='ocrx_word' id='word_1_1' title='bbox 517 456 857 534; x_wconf 80' lang='lat' dir='ltr'><strong>CHRONOGRAPH.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 879 458 1038 528; x_wconf 77' lang='lat' dir='ltr'><strong>CANON.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1242 443 1319 520; x_wconf 75' lang='lat'><strong><em>275</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 282 579 1295 712">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 282 579 1295 712">
+     <span class='ocr_line' id='line_1_2' title="bbox 282 579 1295 712; baseline -0.014 -37"><span class='ocrx_word' id='word_1_4' title='bbox 282 629 372 674; x_wconf 67' lang='lat' dir='ltr'><strong><em>Anaia</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 381 630 468 712; x_wconf 54' lang='lat' dir='ltr'><strong><em>fumali</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 573 625 744 686; x_wconf 65' lang='lat' dir='ltr'><strong><em>Aegyptiorum</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 758 579 845 681; x_wconf 44' lang='lat' dir='ltr'><strong><em>figes.</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 961 619 1103 664; x_wconf 68' lang='lat' dir='ltr'><strong><em>ruam-n</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1138 605 1295 677; x_wconf 64' lang='lat' dir='ltr'><strong><em>mmm.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 318 688 1096 777">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 318 688 1096 777">
+     <span class='ocr_line' id='line_1_3' title="bbox 318 688 1096 777; baseline -0.026 -14"><span class='ocrx_word' id='word_1_10' title='bbox 318 699 423 777; x_wconf 54' lang='grc' dir='ltr'><strong><em>Μ’*</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 723 704 876 754; x_wconf 67' lang='lat' dir='ltr'><strong><em>Eundem</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 889 705 927 753; x_wconf 73' lang='lat' dir='ltr'><strong><em>ln-</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 959 688 1096 745; x_wconf 58' lang='lat' dir='ltr'><strong><em>mm»</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1560 4959">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1560 4959">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1560 4959; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1560 4959; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

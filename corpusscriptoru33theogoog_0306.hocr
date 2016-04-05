@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru33theogoog_0306.png"; bbox 0 0 3109 4959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 241 409 1016 493">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 241 409 1016 493">
+     <span class='ocr_line' id='line_1_1' title="bbox 241 409 1016 493; baseline -0.022 1"><span class='ocrx_word' id='word_1_1' title='bbox 241 415 321 493; x_wconf 74' lang='lat'>29⁰</span> <span class='ocrx_word' id='word_1_2' title='bbox 600 415 787 490; x_wconf 85' lang='lat' dir='ltr'>GEORGII</span> <span class='ocrx_word' id='word_1_3' title='bbox 806 409 1016 483; x_wconf 86' lang='lat' dir='ltr'>SYNCELLI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 364 568 1249 664">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 364 568 1249 664">
+     <span class='ocr_line' id='line_1_2' title="bbox 364 568 1249 664; baseline -0.023 -33"><span class='ocrx_word' id='word_1_4' title='bbox 364 581 555 664; x_wconf 52' lang='lat' dir='ltr'>Iniqui!</span> <span class='ocrx_word' id='word_1_5' title='bbox 599 580 775 627; x_wconf 57' lang='lat' dir='ltr'>amicitiai.</span> <span class='ocrx_word' id='word_1_6' title='bbox 820 575 1013 638; x_wconf 57' lang='lat' dir='ltr'>&amp;mim</span> <span class='ocrx_word' id='word_1_7' title='bbox 1040 573 1145 628; x_wconf 70' lang='lat' dir='ltr'>Bonae,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1168 568 1249 614; x_wconf 70' lang='lat' dir='ltr'>Antio·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 408 639 1248 718">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 408 639 1248 718">
+     <span class='ocr_line' id='line_1_3' title="bbox 408 639 1248 718; baseline -0.032 -10"><span class='ocrx_word' id='word_1_9' title='bbox 408 653 516 700; x_wconf 53' lang='lat'>⁰⁰⁸⁸&amp;-</span> <span class='ocrx_word' id='word_1_10' title='bbox 868 654 971 694; x_wconf 67' lang='grc' dir='ltr'>ναῦτα.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1040 643 1127 697; x_wconf 60' lang='lat' dir='ltr'>citu,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1145 639 1248 718; x_wconf 45' lang='lat' dir='ltr'>Ausuf-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1560 4959">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1560 4959">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1560 4959; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1560 4959; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
